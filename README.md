@@ -10,3 +10,6 @@ Part Number   Colors  Grey    Level    Resolution   Display    size  (mm) Outlin
 2.13inch / e-Paper black,white/ 2 /  250x122 /48.55 × 23.71 /59.2 × 2
 
 
+Demo sketches:
+helloworldttgo.ino is a simple sketch to print "Hello World" on a TTGO T5 v2.0 module
+
